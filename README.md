@@ -11,7 +11,7 @@ Usage of SalPhish for attacking targets without prior mutual consent is illegal.
 
 
 
-#Info About Author
+# Info About Author
 
 Name :- Prahlad Shukla
 
